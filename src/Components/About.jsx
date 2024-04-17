@@ -1,4 +1,4 @@
-/**
+ /**
  * About component
  *
  * Space for you to describe more about yourself.
@@ -16,27 +16,24 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/IMG_7682.JPG";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "A man standing on the road puting on black shirt";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Back-End Developer | Microsoft Learn Student Ambassador - Bugema University | AI & ML Enthusiast";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Front-End Skills: HTML, CSS, and JavaScript, which are fundamental for building the visual and interactive elements of a website.",
+  "Back-End Skills: Python (Django), a popular web framework that simplifies the process of creating complex web applications",
+  "Design Skills: Web Design, User Experience (UX), Inclusive Design, Mobile User Interfaces, and Graphic Design, which encompass the aesthetic and usability aspects of web development",
 ];
 
 /**
@@ -45,7 +42,9 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm a driven back-end developer with a knack for tackling complex challenges with innovative solutions. My expertise lies in crafting robust and scalable web applications using Python (Django). I thrive on leveraging my back-end knowledge to create the hidden engines that power seamless user experiences.";
+  "I'm constantly seeking to push boundaries and explore new horizons. Machine Learning (ML) and Artificial Intelligence (AI) represent the future of tech, and I'm eager to integrate their capabilities into my development process.  Envisioning back-end systems that can learn and adapt, I'm excited to contribute to the evolution of intelligent web applications"
+
 
 const About = () => {
   return (

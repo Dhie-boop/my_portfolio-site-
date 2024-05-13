@@ -17,8 +17,7 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/IMG.jpeg";
-import image from "../image/Back-end-developer-portfolio.jpg.jpeg";
-import image from '../images/design-desk.jpeg';
+
 
 const imageAltText = "A man standing on the road puting on black shirt";
 
